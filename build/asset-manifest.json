@@ -1,0 +1,18 @@
+{
+  "files": {
+    "main.css": "/static/css/main.5718480d.css",
+    "main.js": "/static/js/main.d3fdbb78.js",
+    "static/js/952.bd7795db.chunk.js": "/static/js/952.bd7795db.chunk.js",
+    "static/media/Sono-VariableFont_MONO,wght.ttf": "/static/media/Sono-VariableFont_MONO,wght.3d7635205c878de451c8.ttf",
+    "static/media/Coiny-Regular.ttf": "/static/media/Coiny-Regular.61e71214a606a6502029.ttf",
+    "static/media/Softwareprogrammierung.ttf": "/static/media/Softwareprogrammierung.f9ec6729bd90111ac53e.ttf",
+    "index.html": "/index.html",
+    "main.5718480d.css.map": "/static/css/main.5718480d.css.map",
+    "main.d3fdbb78.js.map": "/static/js/main.d3fdbb78.js.map",
+    "952.bd7795db.chunk.js.map": "/static/js/952.bd7795db.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.5718480d.css",
+    "static/js/main.d3fdbb78.js"
+  ]
+}
